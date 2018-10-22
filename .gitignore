@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# VS2015
+*.sln
+*.suo
+*.mdb
+*.ldb
+*.db
+*.filters
+*.vcxproj
+Debug/
+Release/
