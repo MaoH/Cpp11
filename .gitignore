@@ -41,3 +41,4 @@
 *.vcxproj
 Debug/
 Release/
+ *.opendb
